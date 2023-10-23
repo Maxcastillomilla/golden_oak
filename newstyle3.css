@@ -206,8 +206,13 @@
 @media screen and (max-width: 960px) {
 
    .mid{
-      padding-top: 100px
+      padding-top: 90px
    }
+   .titulomedio2{
+      font-size: 0.83em !important;
+      font-weight: 300;
+   }
+   
 
 
    .partes2{
